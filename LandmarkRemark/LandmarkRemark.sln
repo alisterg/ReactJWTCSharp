@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemark.Tests", "LandmarkRemark.Tests\LandmarkRemark.Tests.csproj", "{21C2930B-E809-4919-B4B8-031FA09AD594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemarks", "LandmarkRemark\LandmarkRemarks.csproj", "{7211459A-0C31-4486-890B-CF4670CBE62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C2930B-E809-4919-B4B8-031FA09AD594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C2930B-E809-4919-B4B8-031FA09AD594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C2930B-E809-4919-B4B8-031FA09AD594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C2930B-E809-4919-B4B8-031FA09AD594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7211459A-0C31-4486-890B-CF4670CBE62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7211459A-0C31-4486-890B-CF4670CBE62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7211459A-0C31-4486-890B-CF4670CBE62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7211459A-0C31-4486-890B-CF4670CBE62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

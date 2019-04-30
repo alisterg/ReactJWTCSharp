@@ -1,0 +1,36 @@
+.loading-screen {
+    width: 20%;
+    margin: 20% auto;
+    min-height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: left;
+    margin: 20px auto;
+}
+
+.button-container-fab {
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px auto;
+}
+
+.remark {
+    padding-left: 10px;
+    margin: 2% 0;
+}
+
+.remark.currentuser {
+    border-left: 4px solid dodgerblue;
+}
+.remark.otheruser {
+    border-left: 4px solid orange;
+}
+
+.login-container {
+    margin: 10% auto;
+}
